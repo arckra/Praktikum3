@@ -3,31 +3,31 @@ Buat flowchart untuk menentukan bilangan terbesar dari N bilangan yang diinputka
 
 jawaban
 
-Mulai :
-Algoritma dimulai dengan menginisialisasi variabel max dengan nilai negatif tak terhingga (-co).
+1. Mulai :
+Dimulai dengan meng inisialisasi variabel max dengan nilai negatif tak terhingga.
 
-Input N :
-Program meminta pengguna untuk memasukkan jumlah bilangan yang akan diproses.
+2. Input N :
+Meminta pengguna untuk memasukkan jumlah bilangan(N) yang akan diproses.
 
-N = 0? :
-Program memeriksa apakah jumlah bilangan (N) adalah nol. Jika ya, program langsung menuju ke langkah terakhir (Selesai).
+3. N = 0? :
+Memeriksa apakah jumlah bilangan(N) adalah nol. Jika ya, program langsung menuju ke langkah terakhir (Selesai).
 
-Input Bilangan :
-Program meminta pengguna untuk memasukkan bilangan pertama.
+4. Input Bilangan :
+Meminta pengguna untuk memasukkan bilangan pertama.
 
-Bilangan > max? :
-Program membandingkan bilangan yang baru dimasukkan dengan nilai max. Jika bilangan yang baru lebih besar dari max, maka nilai max diubah menjadi bilangan yang baru.
+5. Bilangan > max? :
+Membandingkan bilangan yang baru dimasukkan dengan nilai max. Jika bilangan yang baru lebih besar dari max, maka nilai max diubah menjadi bilangan yang baru.
 
-N = N - 1 :
-Jumlah bilangan (N) dikurangi satu.
+6. N = N - 1 :
+Jumlah bilangan(N) dikurangi satu.
 
-N > 0? :
-Program memeriksa apakah masih ada bilangan yang harus diproses. Jika ya, program kembali ke langkah 4 untuk meminta bilangan berikutnya.
+7. N > 0? :
+Memeriksa apakah masih ada bilangan yang harus diproses. Jika ya, program kembali ke langkah 4 untuk meminta bilangan berikutnya.
 
-Tampilkan max :
-Program menampilkan nilai max yang merupakan nilai maksimum dari semua bilangan yang dimasukkan.
+8. Tampilkan max :
+Menampilkan nilai max yang merupakan nilai maksimum dari semua bilangan yang dimasukkan.
 
-Selesai :
+9. Selesai :
 Algoritma berakhir.
 
 Flowchart ini secara berulang meminta bilangan dari pengguna, dan menyimpan bilangan terbesar yang pernah dimasukkan dalam variabel max sampai semua bilangan telah diproses.
