@@ -3,31 +3,31 @@ Buat flowchart untuk menentukan bilangan terbesar dari N bilangan yang diinputka
 
 jawaban
 
-Mulai
+Mulai :
 Algoritma dimulai dengan menginisialisasi variabel max dengan nilai negatif tak terhingga (-co).
 
-Input N
+Input N :
 Program meminta pengguna untuk memasukkan jumlah bilangan yang akan diproses.
 
-N = 0?
+N = 0? :
 Program memeriksa apakah jumlah bilangan (N) adalah nol. Jika ya, program langsung menuju ke langkah terakhir (Selesai).
 
-Input Bilangan
+Input Bilangan :
 Program meminta pengguna untuk memasukkan bilangan pertama.
 
-Bilangan > max?
+Bilangan > max? :
 Program membandingkan bilangan yang baru dimasukkan dengan nilai max. Jika bilangan yang baru lebih besar dari max, maka nilai max diubah menjadi bilangan yang baru.
 
-N = N - 1
+N = N - 1 :
 Jumlah bilangan (N) dikurangi satu.
 
-N > 0?
+N > 0? :
 Program memeriksa apakah masih ada bilangan yang harus diproses. Jika ya, program kembali ke langkah 4 untuk meminta bilangan berikutnya.
 
-Tampilkan max
+Tampilkan max :
 Program menampilkan nilai max yang merupakan nilai maksimum dari semua bilangan yang dimasukkan.
 
-Selesai
+Selesai :
 Algoritma berakhir.
 
-Dengan kata lain, flowchart ini secara berulang meminta bilangan dari pengguna, dan menyimpan bilangan terbesar yang pernah dimasukkan dalam variabel max sampai semua bilangan telah diproses.
+Flowchart ini secara berulang meminta bilangan dari pengguna, dan menyimpan bilangan terbesar yang pernah dimasukkan dalam variabel max sampai semua bilangan telah diproses.
