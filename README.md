@@ -1,6 +1,6 @@
 # Praktikum3
 
-**Buat flowchart untuk menentukan bilangan terbesar dari 3 buah bilangan yang
+1.) **Buat flowchart untuk menentukan bilangan terbesar dari 3 buah bilangan yang
 diinputkan**
 Jawaban
 
@@ -56,7 +56,7 @@ cari_terbesar_dari_tiga()
 ```
 - Program diakhiri dengan memanggil fungsi yang telah didefinisikan
 
-**Buat flowchart untuk menentukan bilangan terbesar dari N bilangan yang diinputkan, untuk menentukan jumlah N, berikan masukan angka 0**
+2.) **Buat flowchart untuk menentukan bilangan terbesar dari N bilangan yang diinputkan, untuk menentukan jumlah N, berikan masukan angka 0**
 Jawaban
 
 1. Definisi Fungsi:
